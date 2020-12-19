@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608386697 source:c:\users\anne\desktop\code\00 practice\find nth in fibonacci s\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
